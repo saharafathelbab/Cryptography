@@ -3,9 +3,8 @@
   <img src="/cryptography.png" height= "420" width="600"/>
 </p>
 
-**[View Cryptography Project](https://saharafathelbab.github.io/portfolio/documentation/Cryptography_Documentation/Cryptography/Cryptfun.html?)**
+**[View Cryptography Project](https://saharafathelbab.github.io/Cryptography/Cryptfun.html?)**
 <br> 
-**[View Cryptography Project Documentation](https://saharafathelbab.github.io/portfolio/documentation/Cryptography_Documentation/CryptographyInfo.html?)**
 
 #### General Information
 
