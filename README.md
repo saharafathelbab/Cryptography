@@ -1,6 +1,6 @@
 # Cryptography
 <p align="center">
-  <img src="/images_project/cryptography.png" height= "420" width="600"/>
+  <img src="/cryptography.png" height= "420" width="600"/>
 </p>
 
 **[View Cryptography Project](https://saharafathelbab.github.io/portfolio/documentation/Cryptography_Documentation/Cryptography/Cryptfun.html?)**
@@ -51,7 +51,7 @@ For words, phrases, Special Characters, and Numbers , I want for that to be code
 For inspiration for my cipher, I decided to look at ciphers used in the past.
 <a href = "https://www.exploratorium.edu/ronh/secret/secret.html"> Francis Bacon </a> created a substitution cipher where each letter was turned into 5 character groups. I decided to use this method of ciphering for individual Uppercase and Lowercase letters. I decided to use the author's name: <b>Liza Mundy </b> as a base. As shown below, for the letter A, I used the letter L (first letter in her first name) as a place holder for four characters and the fifth character is an M (first letter in her last name).
     <p class="center">
-      <img height: "400px" width: "300px" src = "/images/Dictionarystart.JPG" alt = "first draft cipher">
+      <img height="400px" width="300px" src = "/images/Dictionarystart.JPG" alt = "first draft cipher">
     </p>
 
 After completing this, I realized how easy it would be for someone to essentially crack the cipher. In the book, it mentioned how WAVES - Navy Women Accepted for Volunteer Emergency Service would look forpatterns to decipher & decode ciphers and code.
@@ -92,7 +92,7 @@ I then began to search for a telegraphic book to learn more about how coding wor
 From there, as I flipped through the pages, I discovered that the first began with the two letters Ab(other letters) and the next section after that was Ac(other letters) and so forth:
 
 <p class="center">
-      <img height="400px" "width="500px" src = "/images/codebooktelegraph.png" alt = "telegraphic code">
+      <img height="400px" width="300px" src = "/images/codebooktelegraph.png" alt = "telegraphic code"/>
 </p>
 
 #### What does my code look like?
