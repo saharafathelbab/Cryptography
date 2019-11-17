@@ -1,0 +1,66 @@
+input[type=text]{
+  height: 50px;
+  font-size: 3em;
+}
+
+input[type=submit]{
+  color: white;
+  background-color: black;
+  border-style: none;
+  height: 50px;
+  width: 100px;
+  position: absolute;
+  top: 155px;
+  left: 600px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 14px;
+}
+
+input[type=submit]:hover{
+  color: black;
+  background-color: grey;
+}
+
+
+body{
+  background-image: url("bridge.jpg");
+  background-repeat: no-repeat;
+}
+
+.firsttype{
+  color: white;
+  font-family: 'Oswald', sans-serif;
+  font-size: 2em;
+}
+
+.secondtype{
+  color: white;
+  font-size: 1em;
+  font-family: 'Oswald', sans-serif;
+}
+
+.entirecrypt{
+  position: absolute;
+  top: 150px;
+  left: 100px;
+}
+
+.add{
+  position: absolute;
+  top: 400px;
+  left: 100px;
+}
+
+.nav{
+  color: white;
+  text-decoration: none;
+  font-family: 'Oswald', sans-serif;
+  float: right;
+}
+.nav:hover{
+  color:grey;
+  text-decoration: none;
+  font-family: 'Oswald', sans-serif;
+  float: right;
+
+}

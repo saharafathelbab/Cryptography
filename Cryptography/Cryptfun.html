@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+
+<html>
+  <head>
+    <meta charset = "utf-8">
+    <title> Cryptography </title>
+     <link rel = "stylesheet" href="CSS/crypt.css"/>
+  </head>
+<body>
+
+<div class = "navigation">
+  <a class = "nav" href = "../CryptographyInfo.html"> VIEW CODEBOOK </a>
+</div>
+
+<div class = "entirecrypt">
+    <p class = "firsttype">TYPE IN ANYTHING </p>
+    <p class = "secondtype"> [Letter, Word, Phrase, Number, Special Characters etc.] </p>
+
+
+    <input type="text" id="myInput" oninput="myFunction()">
+    <input type= "submit" id = "encode" value = "Encode" onclick = "myFunction1()">
+
+    <p id="demo"></p>
+    <p id= "next"></p>
+
+
+    <script src = "cipherandcode.js">
+
+    </script>
+
+    <script>
+    document.getElementById("demo").style.color = "white";
+    document.getElementById("demo").style.fontFamily = "Oswald";
+    document.getElementById("next").style.color = "white";
+    document.getElementById("next").style.fontFamily = "Oswald";
+    </script>
+
+  </div>
+
+  <div class = "add">
+    <br>
+    <br>
+    <br>
+    <h3 class = "secondtype"> To clear the encoded characters, you must refresh the page. </h3>
+</div>
+</body>
+</html>
