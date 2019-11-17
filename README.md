@@ -77,7 +77,7 @@ For the code for Words, Phrases, Special Characters and Numbers, I decided to fi
 
 Since cable tolls were charged by the word, phrases and words became small code groups and thus saved a lot of people money. Below is an example of a <a class = "link_for_crypt" href = "https://en.wikipedia.org/wiki/Commercial_code_(communications)"> 1910 radiator catalog: </a>
 
-<p class="center>
+<p class="center">
     <img height="400px" width="300px" src = "/images/telegraphcode.jpg" alt = "telegraphic code">
 </p>
 
