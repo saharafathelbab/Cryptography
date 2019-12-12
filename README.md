@@ -17,6 +17,10 @@ if a peer has the private key to decipher the message.
 * HTML & CSS
 * JavaScript
 
+#### Editor Used
+
+* Atom
+
 #### Special Note:
 
 The author of the book Code Girls reached out to tell me how thrilled she was to see that
